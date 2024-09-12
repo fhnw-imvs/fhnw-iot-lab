@@ -20,14 +20,17 @@ For further information or inquiries to collaborate, contact Thomas Amberg (thom
 - https://github.com/tamberg/microbit-intro (10 hardware kits)
 
 ## Hardware library
-- Single Board Computers
-- Microcontrollers
-- Sensors
-- Actuators
-- Adapters
+- Single Board Computers like BeagleBone, Raspberry Pi and many more.
+- Microcontrollers like Arduino, ESP32, nRF52840 and many more.
+- Sensors for temperature, humidity, CO<sub>2</sub>, and many more.
+- Actuators like LEDs, motors, and many more.
+- Adapters for Feather, Grove, etc.
 
 ## Tools
-- Electronics
+- Soldering station
+- Pliers & cutters
+- Screwdrivers
+- Multimeter
 
 ## License
 Unless noted otherwise
