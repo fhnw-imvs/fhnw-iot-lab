@@ -19,6 +19,7 @@ thomas.amberg@fhnw.ch
 - https://github.com/tamberg/luftdaten-workshop (on demand [hardware kits](https://github.com/tamberg/luftdaten-workshop?tab=readme-ov-file#material-auspacken-und-prüfen))
 
 ## Hardware library
+- Single Board Computers
 - Microcontrollers
 - Sensors
 - Actuators
