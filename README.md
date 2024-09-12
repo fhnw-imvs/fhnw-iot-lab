@@ -41,6 +41,7 @@ Our hardware library to help you get started:
 
 - Single Board Computers (SBC) by Nvidia, TI, Raspberry Pi and others.
 - Microcontrollers like Arduino, ESP32, nRF52840 and many more.
+- Connectivity modules for BLE, Wi-Fi, LoRaWAN and more.
 - Sensors for temperature, humidity, CO<sub>2</sub>, and many more.
 - Actuators like LEDs, motors, and many more.
 - Cameras for microcontrollers or SBCs.
