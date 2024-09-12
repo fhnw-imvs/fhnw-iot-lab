@@ -33,7 +33,7 @@ Workshop materials and hardware kits we designed and published.
 ## Hardware library
 Our hardware library to help you get started.
 
-- Single Board Computers like BeagleBone, Raspberry Pi and many more.
+- Single Board Computers (SBC) like BeagleBone, Raspberry Pi and others.
 - Microcontrollers like Arduino, ESP32, nRF52840 and many more.
 - Sensors for temperature, humidity, CO<sub>2</sub>, and many more.
 - Actuators like LEDs, motors, and many more.
