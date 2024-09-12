@@ -5,6 +5,8 @@ The [FHNW IoT Lab](https://www.fhnw.ch/de/forschung-und-dienstleistungen/technik
 For any inquiries, contact Thomas Amberg (thomas.amberg@fhnw.ch).
 
 ## Services
+We offer services and share expertise on:
+
 - IoT Prototyping with newest hardware modules
 - Software engineering for your IoT application
 - Consulting for internal and external projects
