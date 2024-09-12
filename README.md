@@ -48,4 +48,4 @@ Our tools to do basic electronics repair.
 - Multimeter
 
 ## License
-Unless noted otherwise, content by [@tamberg](https://github.com/tamberg) is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Unless noted otherwise, this content by [@tamberg](https://github.com/tamberg) is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
