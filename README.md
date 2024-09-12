@@ -16,7 +16,7 @@ thomas.amberg@fhnw.ch
 
 ## Workshop materials
 - https://github.com/tamberg/circuitpython-workshop (10 [hardware kits](https://github.com/tamberg/circuitpython-workshop?tab=readme-ov-file#circuitpython))
-- https://github.com/tamberg/luftdaten-workshop ([kits](https://github.com/tamberg/luftdaten-workshop?tab=readme-ov-file#material-auspacken-und-prüfen) on demand)
+- https://github.com/tamberg/luftdaten-workshop (on demand [hardware kits](https://github.com/tamberg/luftdaten-workshop?tab=readme-ov-file#material-auspacken-und-prüfen))
 
 ## Hardware library
 - Microcontrollers
