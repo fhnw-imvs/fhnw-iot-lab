@@ -55,5 +55,9 @@ Our tools to do basic electronics repair:
 - Screwdrivers
 - Multimeter
 
+## More
+- 3D printers are available at [FHNW Maker Studio](https://makerstudio.fhnw.ch)
+- Electronics engineering at [FHNW ISE](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-sensors-and-electronics)
+
 ## License
 Unless noted otherwise, this content by [@tamberg](https://github.com/tamberg) is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
