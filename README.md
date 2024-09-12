@@ -2,7 +2,7 @@
 The [FHNW IoT Lab](https://www.fhnw.ch/de/forschung-und-dienstleistungen/technik/labore-der-hochschule-fuer-technik-fhnw/iot-lab) is part of the [Institute of Mobile and Distributed Systems](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-mobile-and-distributed-systems) at the [School of Engineering](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering) of [University of Applied Sciences and Arts Northwestern Switzerland, FHNW](https://www.fhnw.ch/en/).
 
 ## Contact
-For further information or inquiries to collaborate, contact Thomas Amberg (thomas.amberg@fhnw.ch).
+For any inquiries, contact Thomas Amberg (thomas.amberg@fhnw.ch).
 
 ## Services
 - IoT Prototyping with newest hardware modules
