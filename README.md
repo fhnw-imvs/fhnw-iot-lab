@@ -24,6 +24,7 @@ For further information or inquiries to collaborate, contact Thomas Amberg (thom
 - Microcontrollers like Arduino, ESP32, nRF52840 and many more.
 - Sensors for temperature, humidity, CO<sub>2</sub>, and many more.
 - Actuators like LEDs, motors, and many more.
+- Cameras for microcontrollers or SBCs.
 - Adapters for Feather, Grove, etc.
 
 ## Tools
