@@ -10,20 +10,28 @@ For further information or inquiries to collaborate, contact Thomas Amberg (thom
 - Consulting for internal and external projects
 
 ## Project examples
+Some project examples we helped design and implement.
+
 - [IoT infrastructure for power line monitoring](http://www.tamberg.org/fhnw/2024/IoTInfrastrukturBruggEye.pdf)
 - [IoT and ML infrastructure for biodiversity monitoring](http://www.tamberg.org/fhnw/2022/IoTAndMLInfrastructureForUrbanBiodiversityMonitoring.pdf)
 
 ## Course materials
+Some IoT related courses and hardware kits we teach or support.
+
 - https://github.com/tamberg/fhnw-iot (with [hardware kits](https://github.com/tamberg/fhnw-iot/wiki#hardware))
 - https://github.com/fhnw-imvs/fhnw-idb (with [hardware kits](https://github.com/fhnw-imvs/fhnw-idb/wiki#hardware))
 - https://github.com/tamberg/mse-tsm-mobcom (with [hardware kits](https://github.com/tamberg/mse-tsm-mobcom/wiki#hardware))
 
 ## Workshop materials
+Some workshop materials and hardware kits we designed and published.
+
 - https://github.com/tamberg/circuitpython-workshop (with [hardware kits](https://github.com/tamberg/circuitpython-workshop?tab=readme-ov-file#circuitpython))
 - https://github.com/tamberg/luftdaten-workshop (with [hardware kits](https://github.com/tamberg/luftdaten-workshop?tab=readme-ov-file#material-auspacken-und-prüfen))
 - https://github.com/tamberg/microbit-intro (with hardware kits)
 
 ## Hardware library
+Our hardware library to help you get started.
+
 - Single Board Computers like BeagleBone, Raspberry Pi and many more.
 - Microcontrollers like Arduino, ESP32, nRF52840 and many more.
 - Sensors for temperature, humidity, CO<sub>2</sub>, and many more.
@@ -32,12 +40,12 @@ For further information or inquiries to collaborate, contact Thomas Amberg (thom
 - Adapters for Feather, Grove, etc.
 
 ## Tools
+Our tools to do basic electronics repair.
+
 - Soldering station
 - Pliers & cutters
 - Screwdrivers
 - Multimeter
 
 ## License
-Unless noted otherwise
-
-* Content by [@tamberg](https://github.com/tamberg) is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Unless noted otherwise, content by [@tamberg](https://github.com/tamberg) is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
