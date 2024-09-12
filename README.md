@@ -21,6 +21,9 @@ IoT related courses and hardware kits we teach or support.
 - https://github.com/tamberg/fhnw-iot (with [hardware kit](https://github.com/tamberg/fhnw-iot/wiki#hardware))
 - https://github.com/fhnw-imvs/fhnw-idb (with [hardware kit](https://github.com/fhnw-imvs/fhnw-idb/wiki#hardware))
 - https://github.com/tamberg/mse-tsm-mobcom (with [hardware kit](https://github.com/tamberg/mse-tsm-mobcom/wiki#hardware))
+
+Based on these considerations:
+- [Best Practice for Open Training Materials](http://www.tamberg.org/ictp/2023/BestPracticeForOpenTrainingMaterials.pdf) (2023)
 - [IoT Hardware for CS Bachelor Students](http://www.tamberg.org/fhnw/2019/IoTHardwareForCSBachelorStudents.pdf) (2019)
 
 ## Workshop materials
