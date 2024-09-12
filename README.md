@@ -39,6 +39,7 @@ Our hardware library to help you get started.
 - Actuators like LEDs, motors, and many more.
 - Cameras for microcontrollers or SBCs.
 - Adapters for Feather, Grove, etc.
+- Programmers and probes
 
 ## Tools
 Our tools to do basic electronics repair.
