@@ -56,8 +56,8 @@ Our tools to do basic electronics repair:
 - Multimeter
 
 ## More
-- 3D printers and a laser are available at [FHNW Maker Studio](https://makerstudio.fhnw.ch)
-- For electronics engineering consider [FHNW ISE](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-sensors-and-electronics)
+- 3D printers and a laser cutter are available at [FHNW Maker Studio](https://makerstudio.fhnw.ch)
+- For sensor and electronics engineering consider [FHNW ISE](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-sensors-and-electronics)
 - For software engineering consider [FHNW IMVS](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-mobile-and-distributed-systems)
 
 ## License
