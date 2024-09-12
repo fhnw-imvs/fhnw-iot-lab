@@ -18,16 +18,16 @@ Project examples we helped design and implement.
 ## Course materials
 IoT related courses and hardware kits we teach or support.
 
-- https://github.com/tamberg/fhnw-iot (with [hardware kits](https://github.com/tamberg/fhnw-iot/wiki#hardware))
-- https://github.com/fhnw-imvs/fhnw-idb (with [hardware kits](https://github.com/fhnw-imvs/fhnw-idb/wiki#hardware))
-- https://github.com/tamberg/mse-tsm-mobcom (with [hardware kits](https://github.com/tamberg/mse-tsm-mobcom/wiki#hardware))
+- https://github.com/tamberg/fhnw-iot (with [hardware kit](https://github.com/tamberg/fhnw-iot/wiki#hardware))
+- https://github.com/fhnw-imvs/fhnw-idb (with [hardware kit](https://github.com/fhnw-imvs/fhnw-idb/wiki#hardware))
+- https://github.com/tamberg/mse-tsm-mobcom (with [hardware kit](https://github.com/tamberg/mse-tsm-mobcom/wiki#hardware))
 - [IoT Hardware for CS Bachelor Students](http://www.tamberg.org/fhnw/2019/IoTHardwareForCSBachelorStudents.pdf) (2019)
 
 ## Workshop materials
 Workshop materials and hardware kits we designed and published.
 
-- https://github.com/tamberg/circuitpython-workshop (with [hardware kits](https://github.com/tamberg/circuitpython-workshop?tab=readme-ov-file#circuitpython))
-- https://github.com/tamberg/luftdaten-workshop (with [hardware kits](https://github.com/tamberg/luftdaten-workshop?tab=readme-ov-file#material-auspacken-und-prüfen))
+- https://github.com/tamberg/circuitpython-workshop (with [hardware kit](https://github.com/tamberg/circuitpython-workshop?tab=readme-ov-file#circuitpython))
+- https://github.com/tamberg/luftdaten-workshop (with [hardware kit](https://github.com/tamberg/luftdaten-workshop?tab=readme-ov-file#material-auspacken-und-prüfen))
 - https://github.com/tamberg/microbit-intro (with Micro:bit v1)
 
 ## Hardware library
