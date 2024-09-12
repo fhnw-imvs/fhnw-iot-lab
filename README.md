@@ -12,8 +12,8 @@ For further information or inquiries to collaborate, contact Thomas Amberg (thom
 ## Project examples
 Some project examples we helped design and implement.
 
-- [IoT infrastructure for power line monitoring](http://www.tamberg.org/fhnw/2024/IoTInfrastrukturBruggEye.pdf)
-- [IoT and ML infrastructure for biodiversity monitoring](http://www.tamberg.org/fhnw/2022/IoTAndMLInfrastructureForUrbanBiodiversityMonitoring.pdf) (German)
+- [IoT infrastructure for power line monitoring](http://www.tamberg.org/fhnw/2024/IoTInfrastrukturBruggEye.pdf) (German)
+- [IoT and ML infrastructure for biodiversity monitoring](http://www.tamberg.org/fhnw/2022/IoTAndMLInfrastructureForUrbanBiodiversityMonitoring.pdf)
 
 ## Course materials
 Some IoT related courses and hardware kits we teach or support.
