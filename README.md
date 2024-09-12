@@ -57,6 +57,7 @@ Our tools to do basic electronics repair:
 
 ## More
 - 3D printers are available at [FHNW Maker Studio](https://makerstudio.fhnw.ch)
+- Software engineering at [FHNW IMVS](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-mobile-and-distributed-systems)
 - Electronics engineering at [FHNW ISE](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-sensors-and-electronics)
 
 ## License
