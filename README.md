@@ -6,8 +6,8 @@ thomas.amberg@fhnw.ch
 
 ## Services
 - IoT Prototyping with newest hardware modules
-- Software engineering for your IoT applications
-- Consulting for internal and external IoT projects
+- Software engineering for your IoT application
+- Consulting for internal and external projects
 
 ## Course materials
 - https://github.com/tamberg/fhnw-iot (? [hardware kits](https://github.com/tamberg/fhnw-iot/wiki#hardware))
