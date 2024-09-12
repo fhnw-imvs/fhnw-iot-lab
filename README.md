@@ -9,6 +9,10 @@ For further information or inquiries to collaborate, contact Thomas Amberg (thom
 - Software engineering for your IoT application
 - Consulting for internal and external projects
 
+## Project examples
+- [IoT infrastructure for power line monitoring](http://www.tamberg.org/fhnw/2024/IoTInfrastrukturBruggEye.pdf)
+- [IoT and ML infrastructure for biodiversity monitoring](http://www.tamberg.org/fhnw/2022/IoTAndMLInfrastructureForUrbanBiodiversityMonitoring.pdf)
+
 ## Course materials
 - https://github.com/tamberg/fhnw-iot (? [hardware kits](https://github.com/tamberg/fhnw-iot/wiki#hardware))
 - https://github.com/fhnw-imvs/fhnw-idb (? [hardware kits](https://github.com/fhnw-imvs/fhnw-idb/wiki#hardware))
