@@ -27,3 +27,8 @@ thomas.amberg@fhnw.ch
 
 ## Tools
 - Electronics
+
+## License
+Unless noted otherwise
+
+* Content by [@tamberg](https://github.com/tamberg) is licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
