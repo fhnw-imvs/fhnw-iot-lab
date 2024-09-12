@@ -1,5 +1,5 @@
 # FHNW IoT Lab
-[FHNW IoT Lab](https://www.fhnw.ch/de/forschung-und-dienstleistungen/technik/labore-der-hochschule-fuer-technik-fhnw/iot-lab)
+[FHNW IoT Lab](https://www.fhnw.ch/de/forschung-und-dienstleistungen/technik/labore-der-hochschule-fuer-technik-fhnw/iot-lab) of [IMVS](https://www.fhnw.ch/de/die-fhnw/hochschulen/ht/institute/institut-fuer-mobile-und-verteilte-systeme).
 
 ## Contact
 thomas.amberg@fhnw.ch
