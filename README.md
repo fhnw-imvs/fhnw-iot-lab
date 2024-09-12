@@ -10,20 +10,20 @@ For further information or inquiries to collaborate, contact Thomas Amberg (thom
 - Consulting for internal and external projects
 
 ## Project examples
-Some project examples we helped design and implement.
+Project examples we helped design and implement.
 
 - [IoT infrastructure for power line monitoring](http://www.tamberg.org/fhnw/2024/IoTInfrastrukturBruggEye.pdf) (German)
 - [IoT and ML infrastructure for biodiversity monitoring](http://www.tamberg.org/fhnw/2022/IoTAndMLInfrastructureForUrbanBiodiversityMonitoring.pdf)
 
 ## Course materials
-Some IoT related courses and hardware kits we teach or support.
+IoT related courses and hardware kits we teach or support.
 
 - https://github.com/tamberg/fhnw-iot (with [hardware kits](https://github.com/tamberg/fhnw-iot/wiki#hardware))
 - https://github.com/fhnw-imvs/fhnw-idb (with [hardware kits](https://github.com/fhnw-imvs/fhnw-idb/wiki#hardware))
 - https://github.com/tamberg/mse-tsm-mobcom (with [hardware kits](https://github.com/tamberg/mse-tsm-mobcom/wiki#hardware))
 
 ## Workshop materials
-Some workshop materials and hardware kits we designed and published.
+Workshop materials and hardware kits we designed and published.
 
 - https://github.com/tamberg/circuitpython-workshop (with [hardware kits](https://github.com/tamberg/circuitpython-workshop?tab=readme-ov-file#circuitpython))
 - https://github.com/tamberg/luftdaten-workshop (with [hardware kits](https://github.com/tamberg/luftdaten-workshop?tab=readme-ov-file#material-auspacken-und-prüfen))
