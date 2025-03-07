@@ -37,7 +37,7 @@ Workshop materials and hardware kits we designed and published:
 - https://github.com/tamberg/microbit-intro (with Micro:bit v1)
 
 ## Hardware library
-Our hardware library to help you get started:
+Our [IoT hardware library](https://github.com/fhnw-imvs/fhnw-iot-library) to help you get started:
 
 - Single Board Computers (SBC) by Nvidia, TI, Raspberry Pi and others.
 - Microcontrollers like Arduino, ESP32, nRF52840 and many more.
